@@ -43,6 +43,7 @@ https://www.kaggle.com/c/breast-cancer-classification/data
 
 **4. Relationship between the Feature-set**
 
+![download-min](https://user-images.githubusercontent.com/54996245/144495668-0ac921f1-e3ce-48e1-856e-1784f75c93b9.png)
 
 **5. Data Retention after preforming preprocessing step**
 
@@ -63,8 +64,9 @@ https://www.kaggle.com/c/breast-cancer-classification/data
 ![image](https://user-images.githubusercontent.com/54996245/144495351-4808e0b7-9032-4506-bb3b-8e2af5e8d780.png)
 
 **9. Tree Plot & Feature Importance in Random Forest
-![image](https://user-images.githubusercontent.com/54996245/143787304-f79f29fe-48a3-4fc1-b2f2-115de421e484.png)
-![image](https://user-images.githubusercontent.com/54996245/143787311-3445e102-55df-45e1-8139-52964dd5f683.png)
+  
+![image](https://user-images.githubusercontent.com/54996245/144495785-b44538a9-0573-4489-a55b-6b72faac4dcd.png)
+![image](https://user-images.githubusercontent.com/54996245/144495805-2ff4bc20-6b68-46b9-905c-d0c507010c6b.png)
 
 
 **10. ML Algorithm's Scores for the Dataset**
